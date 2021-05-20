@@ -10,4 +10,5 @@ browser.switch_to.window(
     browser.window_handles[-1]
 )
 
+
 browser.get('http://ddg.gg')
